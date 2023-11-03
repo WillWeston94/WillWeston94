@@ -15,4 +15,5 @@
 </a>
 
 
-<h2 align= "center">Checkout some repos that I have used below to help me on my journey!</h2>
+<h2 align= "center">Check out some repos that I have used below to help me on my journey!</h2>
+<h3 align= "center">Check out the Viewing Party Repo to see a Rails Framework project I built out </h3>
