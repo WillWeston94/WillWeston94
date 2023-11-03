@@ -7,6 +7,12 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=willweston94&show_icons=true&theme=transparent)](https://github.com/willweston94/github-readme-stats)
 
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willweston94&layout=compact)
+
+<a href="https://github.com/willweston94/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willweston94&repo=github-readme-stats" />
+</a>
+
 
 <!---
 WillWeston94/WillWeston94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
