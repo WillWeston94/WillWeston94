@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning AWS Solutions Architect through [Adrian Cantrill AWS learn.cantrill.io](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03) 
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/weston-william)
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=willweston94&show_icons=true&theme=transparent)](https://github.com/willweston94/github-readme-stats)
 
 
 <!---
