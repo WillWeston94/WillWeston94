@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=willweston94&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/willweston94/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=willweston94&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willweston94&layout=compact" />
 </a>
 
 <!---
