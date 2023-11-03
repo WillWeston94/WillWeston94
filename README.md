@@ -1,5 +1,5 @@
 <h1 align= "center">👋 Hi, I’m Will Weston!</h1>
-<h2 align= "center">Backend Software Engineer/h2>
+<h3 align= "center">Backend Software Engineer</h3>
   
 - 👀 I’m interested in Platform Engineering/Backend Development
 - :computer: I'm currently building a GeoSpatial Web/Mobile application using [AviationStack API](https://aviationstack.com/)
