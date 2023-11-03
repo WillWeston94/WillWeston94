@@ -1,4 +1,5 @@
 <h1 align= "center">👋 Hi, I’m Will Weston!</h1>
+
 - 👀 I’m interested in Platform Engineering/Backend Development
 - :computer: I'm currently building a GeoSpatial Web/Mobile application using [AviationStack API](https://aviationstack.com/)
 - 🌱 I’m currently learning AWS Solutions Architect through [Adrian Cantrill AWS learn.cantrill.io](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03) 
