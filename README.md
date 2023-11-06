@@ -5,7 +5,7 @@
 - :computer: I'm currently building a GeoSpatial Web/Mobile application using [AviationStack API](https://aviationstack.com/)
 - 🌱 I’m currently learning AWS Solutions Architect through [Adrian Cantrill AWS learn.cantrill.io](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03)
 - :id: Video of the month: OAuth with OktaDev [OAuth/OpenID](https://www.youtube.com/watch?v=996OiexHze0)
-- 📫 How to reach me [LinkedIn](www.linkedin.com/in/weston-william)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/weston-william)
 
   
 <a href="https://github.com/willweston94/github-readme-stats">
