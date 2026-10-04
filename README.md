@@ -18,4 +18,4 @@
 
 
 <h2 align= "center">Check out some repos that I have used below. These resources will definitely help. </h2>
-<h3 align= "center">Check out the Viewing Party Repo to see a Rails Framework project I built </h3>
+<h3 align= "center">Check out the Viewing Party Repo to see a Rails Framework I built </h3>
