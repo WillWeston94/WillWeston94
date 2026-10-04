@@ -1,7 +1,7 @@
 <h1 align= "center">👋 Hi, I’m Will Weston!</h1>
-<h3 align= "center">Backend Software Engineer</h3>
+<h3 align= "center">Backend and Data Engineer</h3>
   
-- 👀 I’m interested in Platform Engineering/Backend Engineering
+- 👀 I’m interested in Platform Engineering/Backend Engineering & Genomics/Oncology
 - :computer: I'm currently building a GeoSpatial Web/Mobile application using [AviationStack API](https://aviationstack.com/)
 - 🌱 I’m currently learning AWS Solutions Architect through [Adrian Cantrill AWS learn.cantrill.io](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03)
 - :id: Video of the month: OAuth with OktaDev [OAuth/OpenID](https://www.youtube.com/watch?v=996OiexHze0)
