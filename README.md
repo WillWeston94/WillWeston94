@@ -1,5 +1,5 @@
 <h1 align= "center">👋 Hi, I’m Will Weston!</h1>
-<h3 align= "center">Backend and Data Engineer</h3>
+<h3 align= "center">Backend/Data Engineer</h3>
 <h3 align= "center">PEBKAC Compliant</h3>
 
 - 👀 I’m interested in Platform Engineering/Backend Engineering & Genomics/Oncology
